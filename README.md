@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gourav
-- 👀 I’m interested in Cloud Computing and Vertualization
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Cloud Computing and AIML
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
