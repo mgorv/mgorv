@@ -14,4 +14,4 @@ I'm a student based in Berlin, Germany, passionate about data science, quantitat
 I love bringing different skills together—before diving deep into data and tech, I ran my own cafe called Palate Foods! ☕
 
 ### 📫 Let's Connect
-* **LinkedIn:** [Insert your LinkedIn Link here]
+* **LinkedIn:** https://www.linkedin.com/in/gourav-004451210/
